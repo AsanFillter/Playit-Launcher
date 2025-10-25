@@ -30,6 +30,7 @@
 ## PlayitLauncher Installation
 
 ```bash
+sudo apt update -y && sudo apt install git -y
 git clone https://github.com/AsanFillter/Playit-Launcher.git
 cd Playit-Launcher
 chmod +x PlayitLauncher.sh
