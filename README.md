@@ -83,6 +83,8 @@ sudo journalctl -u playit -f
 - **Telegram Channel**: [@AsanFillter](https://t.me/AsanFillter)
 - **Telegram Group**: [@AsanFillter_Group](https://t.me/asanfillter_group)
 
+[![Video Thumbnail](images/VideoThumbnail.jpg)](https://youtu.be/CMXNUWwt4W8?si=WFfMX5GxPOa3cVz1)
+
 ⭐ If you like this project, don't forget to star the repo:
 
 [![Stargazers over time](https://starchart.cc/AsanFillter/Playit-Launcher.svg?variant=adaptive)](https://starchart.cc/AsanFillter/Playit-Launcher)
